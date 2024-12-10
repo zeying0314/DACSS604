@@ -1,23 +1,58 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "section": "",
+    "text": "This study focused on the impact of factors related to healthcare costs on its impact. Understanding the interactions in the data is critical to interpreting the dynamics of costs associated with prescription drugs. First, we explore the relationship between revealed restriction indices (RIs) and generic drug use in health plans. The question of whether the impact of restriction indices on drug costs depends on how often health plans choose generic alternatives is explored and analyzed. Second, another interesting direction for analysis is demographics. This part of the study on the impact of characteristics such as the average age of Medicare plan members and the percentage of female members on prescription drug costs aims to provide a more comprehensive understanding of the factors that influence health care costs, making the analysis of this data set more holistic and enlightening.\nProject 1 - Healthcare Costs"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "projects.html#project-1-healthcare-costs",
+    "href": "projects.html#project-1-healthcare-costs",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "This study focused on the impact of factors related to healthcare costs on its impact. Understanding the interactions in the data is critical to interpreting the dynamics of costs associated with prescription drugs. First, we explore the relationship between revealed restriction indices (RIs) and generic drug use in health plans. The question of whether the impact of restriction indices on drug costs depends on how often health plans choose generic alternatives is explored and analyzed. Second, another interesting direction for analysis is demographics. This part of the study on the impact of characteristics such as the average age of Medicare plan members and the percentage of female members on prescription drug costs aims to provide a more comprehensive understanding of the factors that influence health care costs, making the analysis of this data set more holistic and enlightening.\nProject 1 - Healthcare Costs"
+  },
+  {
+    "objectID": "projects.html#project-2-dashboard-presentation",
+    "href": "projects.html#project-2-dashboard-presentation",
+    "title": "Projects",
+    "section": "Project 2 Dashboard Presentation",
+    "text": "Project 2 Dashboard Presentation\nThe visual dashboard for the final exam score distribution bar chart.\nProject 2 - Score Distribution"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am a graduate student at UMass Amherst pursuing a Master of Science in Data Analytics and Computational Social Science (expected December 2024). My interests include data visualization, machine learning, and social science research.\n\n\n\nUniversity of Massachusetts Boston Bachelor of Arts in Computer Science, December 2022\n\n\n\nDACSS, University of Massachusetts Amherst\n\n\n\nOpen Resume\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a graduate student at UMass Amherst pursuing a Master of Science in Data Analytics and Computational Social Science (expected December 2024). My interests include data visualization, machine learning, and social science research."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "University of Massachusetts Boston Bachelor of Arts in Computer Science, December 2022"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "DACSS, University of Massachusetts Amherst"
+  },
+  {
+    "objectID": "index.html#resume-pdf-file",
+    "href": "index.html#resume-pdf-file",
+    "title": "About Me",
+    "section": "",
+    "text": "Open Resume"
   }
 ]

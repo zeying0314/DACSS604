@@ -2,8 +2,15 @@
 title: "Projects"
 ---
 
-## Project 1
+## Project 1 Healthcare Costs
 
-## Project 2
+This study focused on the impact of factors related to healthcare costs on its impact. Understanding the interactions in the data is critical to interpreting the dynamics of costs associated with prescription drugs. First, we explore the relationship between revealed restriction indices (RIs) and generic drug use in health plans. The question of whether the impact of restriction indices on drug costs depends on how often health plans choose generic alternatives is explored and analyzed. Second, another interesting direction for analysis is demographics. This part of the study on the impact of characteristics such as the average age of Medicare plan members and the percentage of female members on prescription drug costs aims to provide a more comprehensive understanding of the factors that influence health care costs, making the analysis of this data set more holistic and enlightening.
 
-## Project 3
+[Project 1 - Healthcare Costs](files/project1/final_version.html)
+
+## Project 2 Dashboard Presentation
+
+The visual dashboard for the final exam score distribution bar chart.
+
+[Project 2 - Score Distribution](https://zeying0314.github.io/Shiny-Exam/)
+

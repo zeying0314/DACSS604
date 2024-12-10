@@ -3,20 +3,18 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "DACSS604 Fall24"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/zeying0314/DACSS604
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2024, Zeying Guo"
 
 format:
   html:
@@ -25,3 +23,5 @@ format:
 
 editor: source
 
+resources: 
+  - "files/**"

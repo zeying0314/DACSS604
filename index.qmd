@@ -10,9 +10,20 @@ about:
 
 ## Goals
 
+I am a graduate student at UMass Amherst pursuing a Master of Science in Data Analytics and Computational Social Science (expected December 2024). My interests include data visualization, machine learning, and social science research.
+
 ## Education
 
+University of Massachusetts Boston
+Bachelor of Arts in Computer Science, December 2022
+
 ## Experience
+
+DACSS, University of Massachusetts Amherst
+
+## Resume (PDF file)
+
+<a href="files/resume.pdf" target="_blank">Open Resume</a>
 
 :::
 
